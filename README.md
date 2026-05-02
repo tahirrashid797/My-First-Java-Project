@@ -23,7 +23,15 @@ This project analyzes password strength using multiple security checks such as l
 4. Enter password to analyze
 
 ## Output
-![Output Screenshot](Screenshot%202026-05-02%20151241.png)
+## Output
+<img width="1388" height="343" alt="image" src="https://github.com/user-attachments/assets/571d6cc9-8642-4fd6-8be4-04866cab1bb7" />
+<br><br>
+<img width="1382" height="347" alt="image" src="https://github.com/user-attachments/assets/ba932e47-3383-4ddf-8351-437de4e180b4" />
+<br><br>
+<img width="1193" height="352" alt="Screenshot 2026-05-02 151241" src="https://github.com/user-attachments/assets/1b63bfb9-7f66-409e-affa-d9b09e97422c" />
+
+
+
 
 ##  Future Improvements
 
