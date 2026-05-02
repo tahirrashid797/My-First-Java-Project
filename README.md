@@ -20,7 +20,10 @@ This project analyzes password strength using multiple security checks such as l
 
 1. Open project in Java IDE or Vs-Code
 2. Run `Main.java`
-3. Enter password to analyze
+4. Enter password to analyze
+
+## Output
+![Output Screenshot](Screenshot%202026-05-02%20151241.png)
 
 ##  Future Improvements
 
