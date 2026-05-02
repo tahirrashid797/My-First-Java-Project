@@ -18,7 +18,7 @@ This project analyzes password strength using multiple security checks such as l
 
 ##  How to Run
 
-1. Open project in Java IDE
+1. Open project in Java IDE or Vs-Code
 2. Run `Main.java`
 3. Enter password to analyze
 
