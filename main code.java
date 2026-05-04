@@ -9,7 +9,7 @@ public class project {
             
             int score = 0;
             
-            // 1. Length Check
+            // Length Check
             if (password.length() >= 8) score++;
             if (password.length() >= 12) score++;
             
@@ -32,6 +32,6 @@ public class project {
         }
     }
 }
-//import java.util.Scanner;
+
 
     
